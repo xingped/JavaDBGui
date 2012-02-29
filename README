@@ -1,1 +1,29 @@
-Initial Readme edit.
++--------------------------------------------+
+| Java Database GUI                          |
+| Software Version: 0.8                      |
+| Author: Paul Gatterdam                     |
+| Release: January 19th, 2012                |
+| https://github.com/xingped/JavaDBGui       |
++--------------------------------------------+
+
+This project is a GUI written in Java to interact with a Database.
+
+
+Version History
+----------------
+0.8: First public release.
+
+
+Bugs / To-Do List
+------------------
+ - Allow connection to other IP addresses.
+ - Allow usage of other JDBCs
+
+
+ +------------------------------+
+ | Contact Information          |
+ +------------------------------+
+ | Paul Gatterdam               |
+ | pjgatt56-at-gmail-dot-com    |
+ | http://about.me/pjgatt       |
+ +------------------------------+
